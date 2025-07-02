@@ -1,0 +1,9 @@
+echo 1. CORS ¿Qué hace?
+Permite que tu servidor pueda aceptar peticiones desde otros dominios (o puertos), lo cual normalmente está bloqueado por seguridad en los navegadores. 2. Express ¿Qué hace? Es un framework para Node.js que hace más fácil crear servidores web y APIs. Con Express puedes manejar rutas, peticiones GET, POST, etc., de forma sencilla. 3. Mongoose ¿Qué hace?
+Es una librería que te permite conectarte a una base de datos MongoDB y trabajar con ella de forma más fácil y organizada usando modelos y esquemas. 4. Dotenv ¿Qué hace?
+Te permite guardar datos sensibles o configuraciones (como contraseñas, claves, URLs) en un archivo .env, y luego acceder a ellas desde tu código. > librerias.txt
+
+
+
+
+
